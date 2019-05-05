@@ -6,7 +6,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/server/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/server/templates/layout.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/server/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/site.db" beforeDir="false" />
+>>>>>>> parent of 7070928... а
 =======
       <change beforePath="$PROJECT_DIR$/server/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes.py" afterDir="false" />
@@ -28,7 +34,11 @@
     <SUITE FILE_PATH="coverage/flasklab2$flasklab2.coverage" NAME="flasklab2 Coverage Results" MODIFIED="1555871851762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Tyaplab2$flasklab2.coverage" NAME="flasklab2 Coverage Results" MODIFIED="1557083033102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/Tyaplab2$flasklab2.coverage" NAME="flasklab2 Coverage Results" MODIFIED="1555945306918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> parent of 7070928... а
 =======
     <SUITE FILE_PATH="coverage/Tyaplab2$flasklab2.coverage" NAME="flasklab2 Coverage Results" MODIFIED="1555945306918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
 >>>>>>> parent of 7070928... а
@@ -88,8 +98,13 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="242">
               <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+=======
+            <state relative-caret-position="383">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+>>>>>>> parent of 7070928... а
 =======
             <state relative-caret-position="383">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -105,6 +120,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="file.js" pinned="false" current-in-tab="true">
@@ -126,6 +142,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/templates/home.html">
 >>>>>>> parent of 7070928... а
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/templates/home.html">
+>>>>>>> parent of 7070928... а
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
               <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
@@ -138,9 +158,12 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="242">
               <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
 =======
+=======
+>>>>>>> parent of 7070928... а
 =======
 >>>>>>> parent of 7070928... а
             <state relative-caret-position="204">
@@ -149,6 +172,9 @@
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7070928... а
+=======
 >>>>>>> parent of 7070928... а
 =======
 >>>>>>> parent of 7070928... а
@@ -158,8 +184,13 @@
       </file>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/templates/home.html">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/forms.py">
+>>>>>>> parent of 7070928... а
 =======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/forms.py">
@@ -218,6 +249,7 @@
         <option value="$PROJECT_DIR$/server/templates/about.html" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/server/forms.py" />
         <option value="$PROJECT_DIR$/server/models.py" />
         <option value="$PROJECT_DIR$/server/routes.py" />
@@ -269,12 +301,28 @@
     </option>
   </component>
 >>>>>>> parent of 7070928... а
+=======
+        <option value="$PROJECT_DIR$/server/templates/layout.html" />
+        <option value="$PROJECT_DIR$/server/templates/account.html" />
+        <option value="$PROJECT_DIR$/server/static/main.css" />
+        <option value="$PROJECT_DIR$/server/templates/home.html" />
+        <option value="$PROJECT_DIR$/server/forms.py" />
+        <option value="$PROJECT_DIR$/server/templates/post.html" />
+        <option value="$PROJECT_DIR$/server/models.py" />
+        <option value="$PROJECT_DIR$/server/routes.py" />
+      </list>
+    </option>
+  </component>
+>>>>>>> parent of 7070928... а
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
     <option name="height" value="1044" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7070928... а
+=======
 >>>>>>> parent of 7070928... а
 =======
 >>>>>>> parent of 7070928... а
@@ -408,6 +456,7 @@
   <component name="ToolWindowManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -422,6 +471,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
+=======
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12631579" />
+>>>>>>> parent of 7070928... а
 =======
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
@@ -563,6 +617,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/templates/register.html">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1352">
           <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
@@ -590,17 +645,27 @@
         <state relative-caret-position="1352">
           <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
 >>>>>>> parent of 7070928... а
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+>>>>>>> parent of 7070928... а
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="220">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="e#432#461#0#HTML" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+>>>>>>> parent of 7070928... а
 =======
         <state relative-caret-position="242">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
@@ -616,8 +681,13 @@
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="242">
           <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+=======
+        <state relative-caret-position="204">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+>>>>>>> parent of 7070928... а
 =======
         <state relative-caret-position="204">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
@@ -634,6 +704,7 @@
     </entry>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/server/static/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -645,6 +716,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/server/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="85" column="44" lean-forward="true" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
+>>>>>>> parent of 7070928... а
 =======
     <entry file="file://$PROJECT_DIR$/server/routes.py">
       <provider selected="true" editor-type-id="text-editor">
