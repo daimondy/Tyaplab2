@@ -76,11 +76,14 @@ def account():
 def new_post():
     form = PostForm()
     if form.validate_on_submit():
-        post = Post(title=form.title.data, content=form.content.data, author=current_user)
-        db.session.add(post)
-        db.session.commit()
-        flash('Ваш пост создан!', 'success')
-        return redirect(url_for('home'))
+        if Post.query.filter_by(title = form.title.data).first():
+            flash('Пост с таким заголовком уже существует!', 'danger')
+        else:
+            post = Post(title=form.title.data, content=form.content.data, author=current_user)
+            db.session.add(post)
+            db.session.commit()
+            flash('Ваш пост создан!', 'success')
+            return redirect(url_for('home'))
     return render_template('new_post.html', title='Новый пост',
                            form=form, legend='Новый пост')
 
