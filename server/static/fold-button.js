@@ -1,5 +1,5 @@
 var but = document.getElementsByClassName("btn btn-secondary btn-sm fold-button");
-
+e.target.className = "fold-button folded";
 function fun() {
     if (event.target.className == "btn btn-secondary btn-sm fold-button folded") {
         event.target.innerHTML = "Свернуть"
