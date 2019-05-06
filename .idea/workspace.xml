@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c00f9fe-83a7-4b1a-8799-ba5ad7daf0cb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/server/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/server/site.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/server/templates/layout.html" afterDir="false" />
-    </list>
+    <list default="true" id="0c00f9fe-83a7-4b1a-8799-ba5ad7daf0cb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,15 +279,15 @@
       <workItem from="1555942038953" duration="735000" />
       <workItem from="1555944089080" duration="1310000" />
       <workItem from="1557068454208" duration="409000" />
-      <workItem from="1557083437708" duration="111000" />
+      <workItem from="1557083437708" duration="221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3512000" />
+    <option name="totallyTimeSpent" value="3622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12955466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
