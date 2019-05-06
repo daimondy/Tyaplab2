@@ -43,6 +43,7 @@ a.article-title:hover {
 
 .article-content {
     word-break: break-all;
+    white-space: pre-line;
 }
 
 .folded
